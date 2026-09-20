@@ -1,3 +1,7 @@
+https://fakecrime.bio/yp
+https://guns.lol/tpa
+https://discord.gg/36EAyW5Z4F
+-------------------------------------
 A powerful, high-accuracy CLI tool to check for available usernames on guns.lol using Selenium with advanced detection logic.
 
 ## ⚠️ Important Note
