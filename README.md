@@ -1,5 +1,3 @@
-https://fakecrime.bio/yp
-https://guns.lol/tpa
 https://discord.gg/36EAyW5Z4F
 -------------------------------------
 A powerful, high-accuracy CLI tool to check for available usernames on guns.lol using Selenium with advanced detection logic.
@@ -21,11 +19,7 @@ A powerful, high-accuracy CLI tool to check for available usernames on guns.lol 
 ## 🛠️ Installation
 
 1. **Prerequisites:** Ensure you have [Python 3.8+](https://www.python.org/) and Google Chrome installed.
-2. **Clone & Setup:**
-   ```bash
-   git clone
-   cd guns.lol-username-checker
-3. **Install Requirements:**
+2. **Install Requirements:**
    ```bash
    pip install -r requirements.txt
    ```
