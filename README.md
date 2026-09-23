@@ -23,7 +23,7 @@ A powerful, high-accuracy CLI tool to check for available usernames on guns.lol 
 1. **Prerequisites:** Ensure you have [Python 3.8+](https://www.python.org/) and Google Chrome installed.
 2. **Clone & Setup:**
    ```bash
-   git clone https://github.com/efekrbas/guns.lol-username-checker.git
+   git clone
    cd guns.lol-username-checker
 3. **Install Requirements:**
    ```bash
